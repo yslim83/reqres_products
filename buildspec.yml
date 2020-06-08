@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "product"
+    IMAGE_REPO_NAME: "admin20-products"
 
 phases:
   install:
